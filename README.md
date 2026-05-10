@@ -1,7 +1,7 @@
 # ephemeral-deleter
 fix deleting ephemeral error in flutter
 
-![Screenshot description](https://github.com/rmahfouz/ephemeral-deleter/blob/main/screenshots/screenshot.png?raw=true)
+![Screenshot description](https://github.com/rmahfouz/ephemeral-deleter/blob/main/Screenshot%202026-05-10%20115344.png?raw=true)
 
 
 If you encounter an issue where Flutter fails to delete a directory (such as `build\flutter_assets` or `ephemeral`) when trying to build or debug the app after it was already started and closed, you can use the included `force_clean.bat` script.
